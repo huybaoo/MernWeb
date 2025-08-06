@@ -50,3 +50,11 @@
 - cd mernweb-be
 - npm install
 - npm start
+
+---
+
+## Tác giả
+Tên: [Nguyễn Huy Bảo]
+
+Email: [nhbao27204@gmail.com]
+
