@@ -24,14 +24,16 @@
 
 ---
 
-## Công nghệ sử dụng
-- | **Frontend** | ReactJS, Redux, Ant Design, HTML, CSS |
-- | **Backend**  | Express.js, MongoDB, Mongoose |
-- | **Xác thực** | JSON Web Token (JWT) |
-- | **Thanh toán** | Paypal  API |
-- | **Email** | Nodemailer |
-- | **Thống kê** | React Chart, Ant Design Statistic |
+## 🛠 Công nghệ sử dụng
 
+| Phần       | Công nghệ |
+|------------|-----------|
+| **Frontend** | ReactJS, Redux, Ant Design, HTML, CSS |
+| **Backend**  | Express.js, MongoDB, Mongoose |
+| **Xác thực** | JSON Web Token (JWT) |
+| **Thanh toán** | Paypal API |
+| **Email** | Nodemailer |
+| **Thống kê** | React Chart, Ant Design Statistic |
 ---
 
 ## Hướng dẫn cài đặt
