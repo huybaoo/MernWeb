@@ -25,7 +25,7 @@
 ---
 
 ## Công nghệ sử dụng
-- | **Frontend** | ReactJS, Redux, Ant Design |
+- | **Frontend** | ReactJS, Redux, Ant Design, HTML, CSS |
 - | **Backend**  | Express.js, MongoDB, Mongoose |
 - | **Xác thực** | JSON Web Token (JWT) |
 - | **Thanh toán** | Paypal  API |
