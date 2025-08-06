@@ -38,7 +38,7 @@
 
 ## Hướng dẫn cài đặt
 1. Clone project
-- git clone https://github.com/your-username/MernWeb.git
+- git clone https://github.com/huybaoo/MernWeb.git
 - cd MernWeb
 
 2. Cài đặt và chạy frontend
