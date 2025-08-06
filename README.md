@@ -1,6 +1,6 @@
 # MernWeb - Website bán hàng công nghệ
 
-**MernWeb** là một ứng dụng thương mại điện tử bán hàng công nghệ được phát triển bằng MERN Stack (MongoDB, Express, React, Node.js). Ứng dụng hỗ trợ người dùng đăng ký, đặt hàng, thanh toán qua Paypal, quản lý đơn hàng, và có trang admin để quản lý sản phẩm, người dùng và doanh thu.
+**MernWeb** là một ứng dụng thương mại điện tử bán hàng công nghệ được phát triển bằng MERN Stack (MongoDB, Express, React, Node.js). Ứng dụng hỗ trợ người dùng đăng ký, cập nhật thông tin người dùng, đặt hàng, thanh toán qua Paypal, quản lý đơn hàng, và có trang admin để quản lý sản phẩm, người dùng và doanh thu.
 
 ---
 
