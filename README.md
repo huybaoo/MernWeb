@@ -25,26 +25,26 @@
 ---
 
 ## Công nghệ sử dụng
-| **Frontend** | ReactJS, Redux, Ant Design |
-| **Backend**  | Express.js, MongoDB, Mongoose |
-| **Xác thực** | JSON Web Token (JWT) |
-| **Thanh toán** | Paypal  API |
-| **Email** | EmailJS |
-| **Thống kê** | React Chart, Ant Design Statistic |
+- | **Frontend** | ReactJS, Redux, Ant Design |
+- | **Backend**  | Express.js, MongoDB, Mongoose |
+- | **Xác thực** | JSON Web Token (JWT) |
+- | **Thanh toán** | Paypal  API |
+- | **Email** | EmailJS |
+- | **Thống kê** | React Chart, Ant Design Statistic |
 
 ---
 
 ## Hướng dẫn cài đặt
 1. Clone project
-git clone https://github.com/your-username/MernWeb.git
-cd MernWeb
+- git clone https://github.com/your-username/MernWeb.git
+- cd MernWeb
 
 2. Cài đặt và chạy frontend
-cd mernweb-fe
-npm install
-npm start
+- cd mernweb-fe
+- npm install
+- npm start
 
 3. Cài đặt và chạy backend
-cd mernweb-be
-npm install
-npm start
+- cd mernweb-be
+- npm install
+- npm start
