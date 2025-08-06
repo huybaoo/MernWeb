@@ -29,7 +29,7 @@
 - | **Backend**  | Express.js, MongoDB, Mongoose |
 - | **Xác thực** | JSON Web Token (JWT) |
 - | **Thanh toán** | Paypal  API |
-- | **Email** | EmailJS |
+- | **Email** | Nodemailer |
 - | **Thống kê** | React Chart, Ant Design Statistic |
 
 ---
